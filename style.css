@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  display: flex;
+  justify-content: center;
+}
+.container{
+  width:601px;
+  padding:3px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 40px;
+}
+.table1,.table2{
+ margin-bottom: 100px;
+}
+
+
+th,td{
+  padding:5px;
+}
+.web1{
+  border:1px solid black;
+}
+.title1{
+  width: 1000px;
+ background: rgb(62, 133, 225);
+ color:white;
+}
+table{
+  width: 600px;
+}
+.web2{
+  width: 600px;
+}
+.table2 h2{
+  margin-left: 100px;
+}
+p{
+  padding: 0px 5px;
+}
+.choice{
+  display:flex;
+}
+.choice span{
+  margin-right:2px;
+  margin-left:5px;
+}
+
+
